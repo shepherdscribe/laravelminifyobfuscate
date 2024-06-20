@@ -23,7 +23,7 @@ return [
     | Default: false
     |
     */
-    'laravel_obfuscate_conditional' => env('LARAVEL_OBFUSCATE_CONDITIONAL', false),
+    'laravel_obfuscate_conditional' => env('LARAVEL_OBFUSCATE_CONDITION', false),
 
 
     /*
